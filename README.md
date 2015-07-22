@@ -1,9 +1,15 @@
 # C-Practice
 Repository for learning and practicing C.
 
+=C/Terminal==
 To compile C programs, type:
 
 gcc -ansi -wall -pedantic -o [path/output-name] [path/source-file-name]
+
+When formatting in printf() e.g %6.1f, it means right justify text atleast
+6 digits with 1 decimal place. The total width of the space is 6.
+
+To delete words in terminal, ctrl-W repeatedly if needed.
 
 =GIT==
 Useful git commands
